@@ -1,15 +1,26 @@
 # Regression-Project-Real-Estate-
+
 1. Business Problem
+
 1.1 Problem Context
+
 Our client is a large Real Estate Investor.
 
 They invest in houses, apartments, and villas.
+
 As part of their business, they try to predict the fair transaction price of a property before it's sold.
+
 They do so to calibrate their internal pricing models and keep a pulse on the market.
+
+
 1.2 Problem Statement
+
 The investor has hired us to find a data-driven approach to valuing properties.
+
 They currently have an untapped dataset of transaction prices for previous properties on the market.
+
 Our task is to build a real-estate pricing model using that dataset.
+
 
 2. Data fields
 Here's a brief version of what you'll find in the data description file.
@@ -173,6 +184,7 @@ YrSold: Year Sold
 SaleType: Type of sale
 
 SaleCondition: Condition of sale
+
 
 
 
